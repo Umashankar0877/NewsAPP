@@ -13,6 +13,7 @@ const App =()=> {
   const pageSize = 8;
   const apiKey="6d4452934c744f8fb86d097910ed2edb";
   //process.env.REACT_APP_NEWS_API;
+  //nghghgj
   
   const [progress,setProgress]=useState(0);
 
