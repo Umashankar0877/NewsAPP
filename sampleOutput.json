@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Atlanta Violence Live Update | Violent Protest In Downtown Atlanta Over Killing Of Activist | News18 - CNN-News18",
+            "description": "A protest turned violent in downtown Atlanta on Saturday night in the wake of the death of an environmental activist who was killed by authorities this week ...",
+            "url": "https://www.youtube.com/watch?v=YhSQgFb-IJY",
+            "urlToImage": "https://i.ytimg.com/vi/YhSQgFb-IJY/maxresdefault_live.jpg",
+            "publishedAt": "2023-01-23T06:11:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alaa Elassar, Holly Yan, Keith Allen, Tina Burnside, Josh Campbell",
+            "title": "Man found dead after police standoff in Torrance was the Monterey Park shooting suspect, sheriff says - CNN",
+            "description": "The man found dead inside a white cargo van after a standoff with police in Torrance, California, has been confirmed as the person suspected of carrying out a mass shooting in Monterey Park Saturday night, according to police.",
+            "url": "https://www.cnn.com/2023/01/22/us/monterey-park-california-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230122131609-bpt102-monterey-park-shooting-012223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-23T04:59:00Z",
+            "content": "Torrance, CaliforniaCNN\r\n  — \r\nThe man found dead inside a white cargo van after a standoff with police in Torrance, California, has been confirmed as the person suspected of carrying out a mass shoo… [+8281 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Cowboys vs. 49ers highlights: San Francisco outlasts Dallas in divisional round - FOX Sports",
+            "description": "The NFL divisional round concluded Sunday with the San Francisco 49ers defeating the Dallas Cowboys. Here are the top plays!",
+            "url": "https://www.foxsports.com/stories/nfl/cowboys-vs-49ers-live-updates-nfc-divisional-round-on-fox",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/01.20.23_NFL-Top-Plays_Divisional-Round_DALvsSF_Horizontal.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-23T04:44:15Z",
+            "content": "The NFL divisional round concluded Sunday with the San Francisco 49ers outdueling the Dallas Cowboys, winning 19-12 to advance to the NFC title game.\r\nThe 49ers will move on to face the Philadelphia … [+7546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Eagles, Chiefs open as favorites for conference championships - NBC Sports",
+            "description": "The numbers may change as the week unfolds, especially with the health of one of the quarterbacks a major question mark. For now, both home teams are favored to win.Via BetMGM, the Eagles are 2.5-point favorites over the 49ers, and the Chiefs are one-point fa…",
+            "url": "https://profootballtalk.nbcsports.com/2023/01/22/eagles-chiefs-open-as-favorites-for-conference-championships/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/01/GettyImages-1430772822-1-e1674444816213.jpg",
+            "publishedAt": "2023-01-23T03:34:00Z",
+            "content": "The numbers may change as the week unfolds, especially with the health of one of the quarterbacks a major question mark. For now, both home teams are favored to win.\r\nVia BetMGM, the Eagles are 2.5-p… [+847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Jazmin Tolliver",
+            "title": "Emilia Clarke Says She Won't Watch ‘House Of The Dragon’ Because ‘It’s So Weird’ - HuffPost",
+            "description": "“I just can’t do it,” the actor, who starred as Daenerys Targaryen on the HBO show’s predecessor series, “Game of Thrones,” quipped.",
+            "url": "https://www.huffpost.com/entry/emilia-clarke-says-theres-no-chance-shell-watch-house-of-the-dragon-because-its-so-weird_n_63cdb9b1e4b0c2b49ad63df0",
+            "urlToImage": "https://img.huffingtonpost.com/asset/63cdbb23220000350093fff2.jpeg?ops=1200_630",
+            "publishedAt": "2023-01-23T01:19:50Z",
+            "content": "Game of Thrones star Emilia Clarke has no interest in watching the shows spinoff, House of the Dragon. \r\nClarke, who starred as Daenerys Targaryen in the fantasy drama series that ran from 2011 to 20… [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "The Associated Press",
+            "title": "Asia-Pacific shares higher, many markets closed for Lunar New Year - CNBC",
+            "description": "Most markets were closed for the Lunar New Year holiday, with markets in Shanghai shut for the whole week.",
+            "url": "https://www.cnbc.com/2023/01/23/asia-pacific-markets-open-to-close.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182187-1674435956143-gettyimages-1458162901-a36o8519_58feed7c-2fc8-4021-a18b-9d08207ce445.jpeg?v=1674436448&w=1920&h=1080",
+            "publishedAt": "2023-01-23T01:14:00Z",
+            "content": "Shares were higher in Asia on Monday, but most markets were closed for the Lunar New Year holiday, with markets in Shanghai shut for the whole week.\r\nTokyo's Nikkei 225 index added 1.1% to 26,852.85 … [+1988 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Germany would not block Poland from sending tanks to Ukraine, minister says - Reuters",
+            "description": "Germany's foreign minister said on Sunday her government would not stand in the way if Poland wants to send its Leopard 2 tanks to Ukraine, in a possible breakthrough for Kyiv which wants the tanks for its fight against Russia's invasion.",
+            "url": "https://www.reuters.com/world/europe/france-does-not-rule-out-sending-leclerc-tanks-ukraine-macron-2023-01-22/",
+            "urlToImage": "https://www.reuters.com/resizer/gV4Tx9IVUGNh6jw8aEAaSYIivbg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K7W2GIHXTRLRDNZIDXQCRRWUTQ.jpg",
+            "publishedAt": "2023-01-23T01:05:00Z",
+            "content": "PARIS, Jan 22 (Reuters) - Germany's foreign minister said on Sunday her government would not stand in the way if Poland wants to send its Leopard 2 tanks to Ukraine, in a possible breakthrough for Ky… [+3597 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Hundreds celebrate Lisa Marie Presley's life at Graceland ceremony - CBS News",
+            "description": "Lisa Marie Presley's son, Benjamin Keough, who died by suicide in 2020, is also buried​ at Graceland.",
+            "url": "https://www.cbsnews.com/news/lisa-marie-presley-memorial-service-graceland-today-2023-01-22/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/2887f5c4-6bef-4c5f-8cd0-2d04598da24d/thumbnail/1200x630/2e52628059b578a1085b54aa215afc2c/gettyimages-1458529667.jpg",
+            "publishedAt": "2023-01-23T00:45:00Z",
+            "content": "Hundreds of people gathered on the front lawn of Graceland on a gray, chilly Sunday morning in Memphis to mourn the death and remember the life of Lisa Marie Presley, who died earlier this month.\r\nSo… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Bill Peters",
+            "title": "Earnings Watch: Microsoft, Tesla and Intel are about to face the doubters - MarketWatch",
+            "description": "After a weak year for stocks, some of Wall Street’s biggest companies face tough questions that could be partly answered as they offer holiday results and expectations for the coming months or year",
+            "url": "https://www.marketwatch.com/story/earnings-watch-microsoft-tesla-and-intel-are-about-to-face-the-doubters-11674434216",
+            "urlToImage": "https://images.mktw.net/im-707885/social",
+            "publishedAt": "2023-01-23T00:36:00Z",
+            "content": "After one of the worst years in Wall Streets history, investors have some serious questions for companies. As holiday returns roll in and with them, forecasts for the months or year ahead many have t… [+10953 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Joe Burrow drops cold line after Bengals' win nixes neutral site AFC Championship - Fox News",
+            "description": "Joe Burrow led the Cincinnati Bengals to a playoff victory over the Buffalo Bills and then talked to CBS' Tracy Wolfson after the game.",
+            "url": "https://www.foxnews.com/sports/joe-burrow-drops-cold-line-bengals-win-nixes-neutral-site-afc-championship",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Joe-Burrow14.jpg",
+            "publishedAt": "2023-01-23T00:10:00Z",
+            "content": "The Cincinnati Bengals may have had an added chip on their shoulder going into their divisional-round matchup against the Buffalo Bills as some players have expressed animosity toward the promotion o… [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David Propper",
+            "title": "Top Russian official warns of 'global tragedy' if allies send Ukraine new weapons - New York Post ",
+            "description": "“Supplies of offensive weapons to the Kyiv regime would lead to a global catastrophe,” said Volodin.",
+            "url": "https://nypost.com/2023/01/22/vyacheslav-volodin-issues-warning-to-allies-giving-weapons-to-ukraine/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25462675-1674432176296.jpg?quality=75&strip=all&1674414254&w=1024",
+            "publishedAt": "2023-01-23T00:05:00Z",
+            "content": "A leading official in Russias parliament is warning of a global tragedy if Ukraine gets new weapons from allies as the bitter fight between the two nations nears the 11-month mark.\r\nVyacheslav Volodi… [+4061 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Zeke Miller, Michael Balsamo",
+            "title": "AP sources: Biden to pick Zients as his next chief of staff - The Associated Press",
+            "description": "WASHINGTON (AP) — President Joe Biden is expected to name Jeff Zients, who ran the administration's response to the COVID-19 pandemic  at the start of Biden's term, as his next chief of staff, according to two people familiar with the matter.",
+            "url": "https://apnews.com/article/biden-politics-ron-klain-covid-6a8555dacf08877794a582a989888686",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a455909683934980b99a422cdaf848b6/2773.webp",
+            "publishedAt": "2023-01-22T23:48:45Z",
+            "content": "WASHINGTON (AP) President Joe Biden is expected to name Jeff Zients, who ran the administrations response to the COVID-19 pandemic at the start of Bidens term, as his next chief of staff, according t… [+5383 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "George Santos on drag photos: ‘I had fun at a festival’ - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzgyNTIyMS1nZW9yZ2Utc2FudG9zLW9uLWRyYWctcGhvdG9zLWktaGFkLWZ1bi1hdC1hLWZlc3RpdmFsL9IBZGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzgyNTIyMS1nZW9yZ2Utc2FudG9zLW9uLWRyYWctcGhvdG9zLWktaGFkLWZ1bi1hdC1hLWZlc3RpdmFsL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-22T23:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Best",
+            "title": "House Democratic leader's daughter arrested for allegedly assaulting police officer, spray-painting monument - Fox News",
+            "description": "Riley Dowell, the 23-year-old daughter of House Democratic Whip Katherine Clark, was arrested for allegedly spray-painting a monument and assaulting a police officer.",
+            "url": "https://www.foxnews.com/politics/house-democratic-leaders-daughter-arrested-allegedly-assaulting-police-officer-spray-painting-monument",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/clark.png",
+            "publishedAt": "2023-01-22T23:27:00Z",
+            "content": "House Democratic Whip Katherine Clark's daughter was arrested on Saturday evening for allegedly spray-painting a monument and assaulting a police officer during a protest.\r\n\"I love Riley, and this is… [+3067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Tatiana Siegel",
+            "title": "Pamela Anderson Alleges Tim Allen Flashed His Penis at Her When She Was 23 (EXCLUSIVE) - Variety",
+            "description": "In her upcoming memoir, Pamela Anderson details a disturbing incident that took place on the set of “Home Improvement” in 1991 when she was 23 years old. “On the first day of film…",
+            "url": "https://variety.com/2023/tv/news/pam-anderson-tim-allen-flashed-penis-home-improvement-1235498326/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/03/Pamela-Anderson.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-01-22T23:18:00Z",
+            "content": "In her upcoming memoir, Pamela Anderson details a disturbing incident that took place on the set of “Home Improvement” in 1991 when she was 23 years old.\r\n“On the first day of filming, I walked out o… [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Steve Mollman",
+            "title": "Layoffs etiquette: Microsoft and others are showing us what not to do when eliminating jobs - Yahoo Finance",
+            "description": "There’s no good way to eliminate thousands of jobs. But some ways are worse than others.",
+            "url": "https://finance.yahoo.com/news/layoffs-etiquette-microsoft-others-showing-225017427.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ABrTLQQcSXJ1CpmhUmf41g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/600a5a0dea204cd9305c19f5b5e15402",
+            "publishedAt": "2023-01-22T22:50:17Z",
+            "content": "Theres no good way to eliminate thousands of jobs. But as the recent layoffs in tech and banking have shown, there are better and worse ways to go about it. That goes not just for the layoffs themsel… [+3541 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andi Babineau, John Miller",
+            "title": "Baton Rouge nightclub shooting injures 12 - CNN",
+            "description": "Police in Baton Rouge, Louisiana, are searching for at least one suspect involved in a nightclub shooting that left a dozen people injured, according to L'Jean McKneely, Baton Rouge Police Department spokesperson.",
+            "url": "https://www.cnn.com/2023/01/22/us/louisiana-shooting-baton-rouge-nightclub/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230122154007-baton-rouge-nightclub-shooting-012223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-22T22:50:00Z",
+            "content": "Police in Baton Rouge, Louisiana, are searching for at least one suspect involved in a nightclub shooting that left a dozen people injured, according to LJean McKneely, Baton Rouge Police Department … [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dan Heching",
+            "title": "'Avatar: The Way of Water' crosses $2 billion mark in worldwide box office - CNN",
+            "description": "As has frequently been the case throughout his unparalleled career, James Cameron made film history again this weekend.",
+            "url": "https://www.cnn.com/2023/01/22/entertainment/avatar-way-of-water-2-billion/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220509122407-01-avatar-the-way-of-water.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-22T22:44:00Z",
+            "content": "As has frequently been the case throughout his unparalleled career, James Cameron made film history again this weekend.\r\nHis long-awaited sequel Avatar: The Way of Water has now made over $2 billion … [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "New Research: Eating Grapes Can Protect Against UV Damage to Skin - SciTechDaily",
+            "description": "A recent study highlights the potential of grapes in providing photoprotection. A recent study published in the journal Antioxidants has shown that consuming grapes can protect against UV damage to the skin. The study participants who consumed 2 ¼ cups of gra…",
+            "url": "https://scitechdaily.com/?p=245362",
+            "urlToImage": "https://scitechdaily.com/images/Person-Holding-Grapes.jpg",
+            "publishedAt": "2023-01-22T22:36:26Z",
+            "content": "UV damage to the skin is caused by exposure to ultraviolet radiation from the sun or artificial sources such as tanning beds. UV radiation can cause a variety of skin problems, including sunburn, pre… [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Fighting"
+            },
+            "author": "Guilherme Cruz",
+            "title": "Glover Teixeira avoids major injuries in UFC 283 war with Jamahal Hill - MMA Fighting",
+            "description": "The 43-year-old veteran absorbed 232 significant strikes in his UFC 283 main event loss to Jamahal Hill in Brazil.",
+            "url": "https://www.mmafighting.com/2023/1/22/23566663/glover-teixeira-avoids-major-injuries-ufc-283-war-jamahal-hill",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/St0uBjNiDEeD9urTax8_bGgvWVQ=/0x0:1320x691/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24378381/Captura_de_Tela_2023_01_22__s_17.28.48.png",
+            "publishedAt": "2023-01-22T21:00:00Z",
+            "content": "RIO DE JANEIRO Glover Teixeira displayed a huge heart in what ended up being his retirement fight with Jamahal Hill at UFC 283, which went down Saturday night in Brazil, but he ultimately avoided maj… [+992 chars]"
+        }
+    ]
+}
